@@ -1,6 +1,7 @@
 ## Utilizing Mask R-CNN to Identify COT Starfish and Its Predators
 This project applies Mask R-CNN, a deep learning model, to automatically detect and segment Crown-of-Thorns (COT) Starfish and its predators in underwater images. The goal is to aid marine conservation efforts by providing a more efficient and accurate method of identifying these species in coral reef ecosystems.
-add image
+
+![Dataset Sample Image](CoralReef.png)
 
 ## Technologies Used
 - **Mask R-CNN** (Deep Learning)
