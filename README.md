@@ -11,6 +11,9 @@ This project applies Mask R-CNN, a deep learning model, to automatically detect 
 - **Jupyter Notebooks** for development and analysis
 - **Matplotlib** / **Seaborn** for data visualization
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis
 Before training the model, I performed an analysis of the dataset to better understand the distribution of labels.
+
+![image](Frequency of Species.png)
+![image](Distribtuon of )
 
