@@ -15,5 +15,5 @@ This project applies Mask R-CNN, a deep learning model, to automatically detect 
 Before training the model, I performed an analysis of the dataset to better understand the distribution of labels.
 
 ![image](Frequency of Species.png)
-![image](Distribtuon of )
+![image](https://github.com/Merihandaniel/Utilizing-Mask-R-CNN-to-identify-COT-Starfish-and-its-predators-/blob/61e31ac7cdc4a800c05d5922f27bc5815325e338/Distribution%20of%20Species%20per%20Filename.png)
 
